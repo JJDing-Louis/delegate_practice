@@ -1,0 +1,10 @@
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\bin\Debug\delegate_teaching.exe.config
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\bin\Debug\delegate_teaching.exe
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\bin\Debug\delegate_teaching.pdb
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.Form1.resources
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.Properties.Resources.resources
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.csproj.GenerateResource.cache
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.exe
+D:\Personal-Work-Space\C# Project\delegate_teaching\delegate_teaching\obj\Debug\delegate_teaching.pdb
